@@ -1,13 +1,13 @@
 # LU Decomposition 
 
-## AIM:
+## Aim:
 To write a program to find the LU Decomposition of a matrix.
 
 ## Equipments Required:
 1. Hardware – PCs
 2. Anaconda – Python 3.7 Installation / Moodle-Code Runner
 
-## Algorithm
+## Algorithm:
 1. First,import numpy.
 2. Import scipy.linalg and import lu for lu decomposition.
 3. Get the input from the user.
